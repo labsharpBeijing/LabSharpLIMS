@@ -1,0 +1,1 @@
+![判定依据管理](https://raw.githubusercontent.com/labsharpBeijing/LabSharpLIMS/master/Doc/Images/spec.png)

@@ -1,0 +1,1 @@
+![检验依据管理](https://raw.githubusercontent.com/labsharpBeijing/LabSharpLIMS/master/Doc/Images/method.png)
